@@ -1,0 +1,19 @@
+{
+  "name": "node_toy_1",
+  "version": "1.0.0",
+  "description": "playing with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_toy_1"
+  },
+  "keywords": [
+    "play",
+    "node"
+  ],
+  "author": "ojc150",
+  "license": "MIT"
+}
