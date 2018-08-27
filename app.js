@@ -17,6 +17,8 @@ app.delete('/user', function (req, res) {
   res.send('이건 딜리트다 이 새끼야');
 });
 
+app.use('/static', express.static('public'));
+
 app.listen(3000, function () {
   console.log('Examle app listening on port 3000!')
 });
