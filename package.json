@@ -15,5 +15,8 @@
     "node"
   ],
   "author": "ojc150",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
